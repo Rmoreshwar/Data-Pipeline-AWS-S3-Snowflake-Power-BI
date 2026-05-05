@@ -1,4 +1,4 @@
-# -Data-Pipeline-AWS-S3-Snowflake-Power-BI
+# -Data-Pipeline-AWS-S3- Snowflake-Power-BI
 ![s3 aws glue snowflake](https://github.com/user-attachments/assets/0cb487f3-fc6a-4ad2-925d-f6f9312caca6)
 
 # 🚀 End-to-End Data Pipeline: AWS S3 ➡️ Snowflake ➡️ Power BI  
